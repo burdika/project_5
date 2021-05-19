@@ -405,7 +405,8 @@ footer{
 
 
 
-@media screen and (min-device-width: 320px) and (max-device-width: 375px){
+
+@media screen and (min-device-width: 320px) and (max-device-width: 475px){
     .header{
         width: 320px;
         /* min-width: 320px;
