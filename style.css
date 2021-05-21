@@ -475,7 +475,7 @@ footer{
     
     .team{
         width: 320px;
-        height: 1300px;
+        height: 1130px;
         margin: 40px 0 0 0;
         display: flex;
         flex-direction: column;
@@ -484,18 +484,19 @@ footer{
 
     .text-mini-3{
         width: 300px;
+        height: 110px;
         margin: 0 0 0 0;
         
     }
 
     .team-members{
         width: 320px;
-        height: 800px;
+        height: 870px;
         display: flex;
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
-        margin: 40px 0 0 0;
+        margin: 20px 0 0 0;
     }
 
     .teammate{
@@ -505,7 +506,7 @@ footer{
     .contact{
         width: 320px;
         height: 150px;
-        margin: 0 0 0 0;
+        margin: 20px 0 0 0;
         padding: 0 0 0 0;
         flex-direction: column;
     }
@@ -528,6 +529,10 @@ footer{
         padding: 0 0 0 0;
         flex-direction: column;
         justify-content: space-around;
+    }
+
+    .yandex-map{
+        margin: -70px 0 0 0;
     }
 
     .maps img{
@@ -562,7 +567,7 @@ footer{
 
     .text-mini-4{
         width: 300px;
-        height: 100px;
+        height: 40px;
         margin: 50px 0 0 0;
         padding: 0 0 0 0;
         text-align: center;
@@ -577,14 +582,14 @@ footer{
     }
 
     .leave-us{
-        width: 310px;
+        width: 315px;
         height: 240px;
         margin: 10px 0 0 0;
         padding: 0 0 0 0;
     }
 
     .email-email{
-        width: 310px;
+        width: 315px;
         height: 60px;
         margin: 10px 0 0 0;
         padding: 0 0 0 0;
